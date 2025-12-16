@@ -3,16 +3,10 @@
 This project analyzes global video game sales using Python, Pandas, and data visualization.
 
 ## 📌 Project Overview
-
-- Pandas is most commonly used for data wrangling and data manipulation purposes
-- NumPy is a fundamental library for numerical computing in Python.Mathematical Operations, Arrays,Linear Algebra etc
-- Removing Duplicates
-- Fixing NULL values(Region,NA_Sales)
-- Standardizing categorical values(Country)
-- Renaming Columns
-- Handling Outliers(Global Sales)
-- Create a Bar Chart('National Sales by Region and Country)
-- Create Box Plot('Global Sales By Platform)
+- Clean and preprocess the dataset
+- Explore sales trends by genre, platform, and region
+- Visualize patterns using graphs
+- Identify the top-selling games worldwide
 
 ## 🛠️ Technologies Used
 - Python
